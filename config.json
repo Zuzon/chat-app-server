@@ -1,0 +1,5 @@
+{
+    "port": 8001,
+    "cacheSize": 0,
+    "idleTimeMs": 60000
+}

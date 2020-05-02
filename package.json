@@ -1,0 +1,30 @@
+{
+  "name": "chat-app-server",
+  "version": "1.0.0",
+  "description": "chat server app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zuzon/chat-app-server.git"
+  },
+  "keywords": [
+    "nodejs",
+    "websocket",
+    "expressjs"
+  ],
+  "author": "Aigars Zeiza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zuzon/chat-app-server/issues"
+  },
+  "homepage": "https://github.com/Zuzon/chat-app-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "log4js": "^6.2.1",
+    "nodejs-websocket": "^1.7.2",
+    "sanitizer": "^0.1.3"
+  }
+}
