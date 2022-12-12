@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/Zuzon/chat-app-server#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "log4js": "^6.2.1",
     "nodejs-websocket": "^1.7.2",
     "sanitizer": "^0.1.3"
